@@ -19,7 +19,7 @@ Como primera medida debemos crear en la carpeta el archivo .gitignore, luego deb
 ### Punteros 
 - ¿A que se debe que los apartados 2 y 3 tiran los mismos resultados?
 <p>
-Los apartados arrojan los mismos resultados debido a que la variable puntero ***punt** apunta a la direccion de memoria de la variable **num**. En el apartado 2 vemos el contenido del puntero y en el 3 vemoss directamente la direccion de la variable.
+Los apartados arrojan los mismos resultados debido a que la variable puntero *punt apunta a la direccion de memoria de la variable num. En el apartado 2 vemos el contenido del puntero y en el 3 vemos directamente la direccion de la variable.
 </p>
 - ¿Qué obtiene en el punto 4?
 <p>
